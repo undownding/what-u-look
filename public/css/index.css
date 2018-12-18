@@ -1,0 +1,43 @@
+#header_card {
+  margin-left: 24px;
+  margin-right: 24px;
+  max-width: 800px;
+  margin-top: 36px;
+  margin-bottom: 36px
+}
+#header_card_container {
+  margin-top: 280px
+}
+.itempic {
+  min-width: 220px;
+  min-height: 180px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  -webkit-background-size:cover;
+  -moz-background-size:cover;
+  background-size:cover
+}
+.container {
+  margin-top: 16px
+}
+.finish-icon-container {
+  font-size: 1rem;
+  display: -webkit-box;
+  display: box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  box-align: center;
+  -webkit-align-items: center;
+  align-items: center
+}
+.finish-icon-text {
+  margin-right: 8px
+}
+.finish-icon {
+  vertical-align: text-bottom
+}
+
+.card-content {
+  max-width: 80%;
+}
